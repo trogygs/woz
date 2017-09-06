@@ -1,0 +1,277 @@
+body {
+	font:12px arial;
+	color: #222;
+	text-align:center;
+	padding: 35px;
+}
+
+form, p, span{
+	margin:0;
+	padding:0;
+}
+
+input {
+
+	font:12px arial;
+}
+
+a {
+	color:#0000FF;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+#wrapper, #loginform {
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom:25px;
+	background:#EBF4FB;
+	width:504px;
+	border:1px solid #ACD8F0;
+	
+}
+
+#talker {
+	background:#ACD8F0;
+	width:350px;
+	height:250px;
+	position:relative;
+	bottom:400px;
+	margin-left: auto;
+}
+
+#teacher {
+	background:#ACD8F0;
+	width:350px;
+	height:250px;
+	bottom:400px;
+	margin: auto;
+}
+
+#loginfom {
+	padding-top:18px;
+}
+
+#loginform p {
+	margin: 5px;
+}
+
+#chatbox {
+	text-align:left;
+	margin: 0 auto;
+	margin-bottom: 25px;
+	padding:10px;
+	background:#fff;
+	height:270px;
+	width:430px;
+	border:1px solid #ACD8F0;
+	overflow:auto;
+}
+
+#usermsg {
+	width:395px;
+	border:1px solid #ACD8F0
+}
+
+#feedback {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback2 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback3 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback4 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback5 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback6 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedback7 {
+	width:375px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackA {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackB {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackC {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackD {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackE {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackF {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackG {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackH {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackI {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackJ {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackK {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackL {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#feedbackM {
+	width:325px;
+	border:1px solid#ACD8F0
+}
+
+#textmsg {
+	width:395px;
+	height:100px;
+	border:1px solid #ACD8F0
+}
+
+#submitmsg4 {
+	width:400px;
+}
+
+#submitmsg13 {
+	width:196px;
+}
+
+#submitmsg15 {
+	width:196px;
+}
+
+#submitmsg16 {
+	width:132px;
+}
+
+#submitmsg17 {
+	width:131px;
+}
+
+#submitmsg20 {
+	width:132px;
+}
+
+#submitmsg18 {
+	width:132px;
+}
+
+#submitmsg19 {
+	width:131px;
+}
+
+#submitmsg21 {
+	width:132px;
+}
+
+#submitmsg8 {
+	width:98px;
+}
+
+#submitmsg9 {
+	width:98px;
+}
+
+#submitmsg10 {
+	width:98px;
+}
+
+#submitmsg12 {
+	width:98px;
+}
+
+#submitmsg11 {
+	width:196px;
+}
+
+#submitmsg14 {
+	width:196px;
+}
+
+#submit {
+	width:60px;
+}
+
+.error {
+	color#ff0000;
+}
+
+#menu {
+	padding:12.5px 25px 12.5px 25px;
+}
+
+.welcome {
+	float:left;
+}
+
+.logout {
+	float:right;
+}
+
+.msgln {
+	margin:0 0 2px 0;
+}
+
+#nopump {
+	color: red;
+	font-weight: bold;
+}
+
+
+
+
+
